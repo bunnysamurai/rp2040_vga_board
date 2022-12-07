@@ -5,8 +5,10 @@
   (paper "A4")
 
   (title_block
-    (title "Simplified RPI-PVSA    VGA")
-    (date "2022-03-17")
+    (title "Simplified Pico VGA")
+    (date "2022-12-07")
+    (comment 3 "License: MIT")
+    (comment 4 "Author: Ben Pohlman")
   )
 
   (lib_symbols
