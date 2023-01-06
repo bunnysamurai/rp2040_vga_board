@@ -11,3 +11,5 @@ As a design goal, this board is intended to support all the features made availa
 
 # Tools
 KiCad: version 6.0.9, at least
+
+Design rules follow [those documented by PCBWay](https://www.pcbway.com/capabilities.html)
