@@ -1506,7 +1506,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 34658b83-b9b4-4abb-991a-2b0884a6b675)
   )
-  (text "Multiplayer" (at 234.95 26.67 0)
+  (text "Comms" (at 234.95 26.67 0)
     (effects (font (size 2.54 2.54)) (justify left bottom))
     (uuid 353766db-e6bc-4c64-b2d4-a97d6e033b61)
   )
